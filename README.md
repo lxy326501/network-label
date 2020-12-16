@@ -1,5 +1,11 @@
 # network-label
 
+## 项目概述 Project overview
+```
+1.图片的上传和预览
+2.文本的标记
+```
+
 ## Project setup
 ```
 npm install
